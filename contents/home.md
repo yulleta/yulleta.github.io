@@ -9,4 +9,4 @@ M.E.,  <a href="https://sites.google.com/sookmyung.ac.kr/aiv-lab-smwu" target="_
 B.E., Computer Science and Technology, Sookmyung Women University, 2021—2025.
 
 #### Research Interests
-Computer Vision, Artificial Intelligence, 3D Reconstruction, 3D editing, Style Transfer, Interactive AI(HCI), VR/AR, AI for industrial design/education.
+Computer Vision, Artificial Intelligence, generative AI, 3D Reconstruction, 3D editing, Style Transfer, Interactive AI(HCI), VR/AR, AI for industrial design/education.
