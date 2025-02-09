@@ -4227,7 +4227,7 @@ fieldset:disabled .btn {
 .nav-pills {
   --bs-nav-pills-border-radius: 0.375rem;
   --bs-nav-pills-link-active-color: #fff;
-  --bs-nav-pills-link-active-bg: #2937f0;
+  --bs-nav-pills-link-active-bg: #5f4b8b;
 }
 
 .nav-pills .nav-link {
