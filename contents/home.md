@@ -1,12 +1,12 @@
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+She is currently pursuing a Master's Degree in Computer Science, <br/>
+at School of Computer Science and Technology, Sookmyung Women University, South Korea.
 
 #### Email
-sli[at]cumt.edu.cn
+mg09091234[at]gmail.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.E.,  <a href="https://sites.google.com/sookmyung.ac.kr/aiv-lab-smwu" target="_blank">AI Vision Lab</a>, Sookmyung Women University, 2026—2027.08 (expected).\
+B.E., Computer Science and Technology, Sookmyung Women University, 2021—2025.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
-
+Computer Vision, Artificial Intelligence, 3D Reconstruction, 3D editing, Style Transfer, Interactive AI(HCI), VR/AR, AI for industrial design/education.

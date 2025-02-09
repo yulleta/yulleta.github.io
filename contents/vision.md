@@ -1,4 +1,5 @@
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+She is currently pursuing a Master's Degree in Computer Science, 
+at School of Computer Science and Technology, Sookmyung Women University, South Korea.
 
 #### Email
 sli[at]cumt.edu.cn
