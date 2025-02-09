@@ -2,7 +2,7 @@ She is currently pursuing a Master's Degree in Computer Science, <br/>
 at School of Computer Science and Technology, Sookmyung Women University, South Korea.
 
 #### Email
-mg09091234[at]gmail.com
+mg09091234@gmail.com
 
 #### Education
 M.E.,  <a href="https://sites.google.com/sookmyung.ac.kr/aiv-lab-smwu" target="_blank">AI Vision Lab</a>, Sookmyung Women University, 2026—2027.08 (expected).\
