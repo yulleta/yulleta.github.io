@@ -10,4 +10,4 @@ B.E., Computer Science , Sookmyung Women's University, 2021—2025.
 
 #### Research Interests
 <strong>AI-driven 3D Graphics & Interactive Systems for Content Creation, Artistic Design, and Immersive Experiences</strong> <br/>
-: Computer Vision, Artificial Intelligence, Generative AI, 3D Reconstruction, 3D editing, Style Transfer, Interactive AI(HCI), VR/AR, AI for industrial design/education.
+: Computer Vision, Artificial Intelligence, Generative AI, 3D Reconstruction, 3D editing, Style Transfer, Interactive AI(HCI), VR/AR, AI for industrial & artistic design/education.
