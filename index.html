@@ -137,7 +137,7 @@
     </div>
     <!-- Photo -->
 
-    <div style="max-width: 63%; margin: 0 auto;">
+    <div class="responsive-container">
         <!-- Home -->
         <section class="bg-gradient-primary-to-secondary-light mt5 md5" id="home">
             <div class="container px-5">
@@ -169,8 +169,10 @@
                         learning,
                         effortless artistic expression, and adaptive environments that respond to human
                         emotions/cognitive and sensory modalities.</strong> Technology
-                    harmonizes with human intuition, allowing people to interact, create, and learn naturally without
-                    technical barriers.<br /> Ultimately, it fosters <strong>a human-centered AI ecosystem that
+                    harmonizes with human intuition, allowing people to <strong>interact, create, and learn naturally
+                        without
+                        technical barriers.</strong><br /> Ultimately, it fosters <strong>a human-centered AI ecosystem
+                        that
                         amplifies
                         creativity, perception, and seamless interaction.</strong>
                 </div>
@@ -223,6 +225,32 @@
 <style>
     .nav-link.active {
         color: #5f4b8b !important;
+    }
+
+    .responsive-container {
+        max-width: 63%;
+        margin: 0 auto;
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+    @media (max-width: 1024px) {
+        .responsive-container {
+            max-width: 80%;
+        }
+    }
+
+    @media (max-width: 768px) {
+        .responsive-container {
+            max-width: 90%;
+        }
+    }
+
+    @media (max-width: 480px) {
+        .responsive-container {
+            max-width: 100%;
+            padding: 0 10px;
+        }
     }
 </style>
 
