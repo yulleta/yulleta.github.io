@@ -5,10 +5,12 @@ at Department of Computer Science, Sookmyung Women's University, South Korea. <b
 📧 Email : mg09091234@gmail.com <br/>
 😺 Github : <a href="https://github.com/yulleta" target="_blank" class="color: #5f4b8b">
     <i class="bi bi-github"> Github Link </i>
-</a> <br/>
+</a> 
+<!-- <br/>
 🎥 Youtube : <a href="https://www.youtube.com/@ManGenLab" target="_blank" class="color: #5f4b8b">
     <i class="bi bi-youtube"> ManGenLab </i>
-</a> <br/><br/>
+</a>  -->
+<br/><br/>
 
 ### 🏫 Education
 🎓 M.S.,  <a href="https://sites.google.com/sookmyung.ac.kr/aiv-lab-smwu" target="_blank">AI Vision Lab</a>, Sookmyung Women's University, 2026—2027.08 (expected)<br/>
