@@ -2,8 +2,8 @@ She is currently pursuing a Master's Degree in Computer Science, <br/>
 at Department of Computer Science, Sookmyung Women's University, South Korea.
 
 ### Contact
-mg09091234@gmail.com <br/>
-<a href="https://github.com/yulleta" target="_blank" class="color: #5f4b8b">
+Email : mg09091234@gmail.com <br/>
+Github : <a href="https://github.com/yulleta" target="_blank" class="color: #5f4b8b">
     <i class="bi bi-github"></i>
 </a> <br/>
 
