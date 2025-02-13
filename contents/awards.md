@@ -1,7 +1,7 @@
 - <details>
   <summary>
   <strong>GA 기반 최적화, LLM 기반 추천 시스템, LangChain을 이용한 영양제 조합 추천 앱</strong><br/>
-  <i>빅데이터 연합 동아리 BOAZ 빅데이터 프로젝트</i>
+  <i>빅데이터 연합 동아리 BOAZ 빅데이터 프로젝트</i><br/>
   <i>2024.02 ~ 2024.07</i>
   
   🔗 [Link](https://github.com/2024-FactChecker-SolutionChallenge)
@@ -16,7 +16,7 @@
   <summary>
   <strong>🏅 GDSC Solution Challenge 2024 Top 100 Finalist</strong><br/>
   <strong>TRUETREE: Gemini 기반 기사 요약, 신뢰도 검사 & 단어 학습 기능을 통한 사리분별력 & 어휘력 향상 서비스</strong><br/> 
-  <i>GDSC Solution Challenge - Global Hackathon</i>
+  <i>GDSC Solution Challenge - Global Hackathon</i><br/>
   <i>2024.02 ~ 2024.05</i>
   
   🔗 [Link](https://github.com/2024-FactChecker-SolutionChallenge)
