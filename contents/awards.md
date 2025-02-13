@@ -4,7 +4,7 @@
   <i>빅데이터 연합 동아리 BOAZ 빅데이터 프로젝트</i><br/>
   <i>2024.02 ~ 2024.07</i>
   
-  🔗 [Link](https://github.com/2024-FactChecker-SolutionChallenge)
+  🔗 [Link](https://www.youtube.com/watch?v=-ulZOF3TM_0&t=2s)
   </summary>
   
   💡 **Implementation Leader**  
