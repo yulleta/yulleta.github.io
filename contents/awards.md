@@ -1,13 +1,9 @@
-<!-- - National Scholarship of Graduate Student, 2024.
+- **GA 기반 최적화, LLM based RecSys, Langchain을 이용한 영양제 조합 추천 앱**  
+  *빅데이터 연합 동아리 BOAZ 빅데이터 프로젝트*  
+  *2024.02 ~ 2024.07*  
 
-- First-prize Scholarship of CUMT, 2024.
+  💡 **Implementation Leader**  
+  🧠 **ML/DL** - LLM-based RecSys using `PEFT` library and graph structure  
+  👩🏻‍💻 **Implementation** - FE & BE (`ReactNative`, `Flask`)  
 
-- First-prize Scholarship of CUMT, 2023.
-
-- Freshman Scholarship of CUMT, 2022.
-
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship of CUMT, 2020.
-
-- First-prize Scholarship of CUMT, 2019. -->
+  🔗 [Project Link](https://github.com/2024-FactChecker-SolutionChallenge)

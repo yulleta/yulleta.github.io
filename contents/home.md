@@ -4,7 +4,7 @@ at Department of Computer Science, Sookmyung Women's University, South Korea. <b
 ### Contact
 Email : mg09091234@gmail.com <br/>
 Github : <a href="https://github.com/yulleta" target="_blank" class="color: #5f4b8b">
-    <i class="bi bi-github"> github_link </i>
+    <i class="bi bi-github"> Github Link </i>
 </a> <br/>
 
 ### Education
