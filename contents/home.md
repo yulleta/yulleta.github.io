@@ -5,6 +5,9 @@ at Department of Computer Science, Sookmyung Women's University, South Korea. <b
 📧 Email : mg09091234@gmail.com <br/>
 😺 Github : <a href="https://github.com/yulleta" target="_blank" class="color: #5f4b8b">
     <i class="bi bi-github"> Github Link </i>
+</a> <br/>
+🎥 Youtube : <a href="https://www.youtube.com/@MangenLab" target="_blank" class="color: #5f4b8b">
+    <i class="bi bi-youtube"> MangenLab </i>
 </a> <br/><br/>
 
 ### 🏫 Education
