@@ -18,5 +18,5 @@ at Department of Computer Science, Sookmyung Women's University, South Korea. <b
 🎓 B.S., Computer Science , Sookmyung Women's University, 2021—2025. <br/><br/>
 
 ### 🔬 Research Interests
-<strong>Human-Centered Generative AI for Interactive and Sensory-Driven Creative Experiences</strong> <br/>
-: Generative AI, Image Editing, Style Transfer, Interactive AI (HCI), AR/VR, Computational Creativity, AI-driven Artistic Tools, Embodied Interaction, Multisensory Design, AI for Emotional and Aesthetic Expression. 
+<strong>Human-Centered Generative AI for Interactive and Expressive Creative Tools</strong> <br/>
+: Generative AI, Interactive AI, AI-driven Artistic Tools, Computational Creativity, Sensory-Driven Effortless Design, UI/UX for Creative Applications, Style Transfer, Embodied Interaction, Creative AI for Aesthetic and Design-Driven Expression.
