@@ -19,4 +19,8 @@ at Department of Computer Science, Sookmyung Women's University, South Korea. <b
 
 ### 🔬 Research Interests
 <strong style="color: #5f4b8b">Human-Centered Generative AI for Interactive and Expressive Creative Tools</strong > <br/>
-: Generative AI, Interactive AI, AI-driven Artistic Tools, Computational Creativity, Sensory-Driven Effortless Design, UI/UX for Creative Applications, Style Transfer, Embodied Interaction, Creative AI for Aesthetic and Design-Driven Expression.
+, enhancing <strong style="color: #5f4b8b">efficiency</strong > while ensuring <strong style="color: #5f4b8b">controllability</strong > and <strong style="color: #5f4b8b">explainability</strong > in a <strong style="color: #5f4b8b">human-in-the-loop approach</strong > <br/><br/>
+
+- Human-AI Co-Creation, AI-driven Artistic Tools, AI-Augmented Design Process Tools, Computational Creativity
+- Creative AI for Personalized Aesthetic Exploration, Controllable & Explainable Generative AI
+- Multi-Modal Generative AI, AI-Augmented Sensory Design, UI/UX for Creative Applications
