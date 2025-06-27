@@ -12,6 +12,7 @@ at Department of Computer Science, Sookmyung Women's University, South Korea. <b
 </a>  -->
 <br/><br/>
 
+
 ### 🏫 Education
 🎓 M.S.,  <a href="https://sites.google.com/sookmyung.ac.kr/aiv-lab-smwu" target="_blank">AI Vision Lab</a>, Sookmyung Women's University, 2026—2027.08 (expected)<br/>
 (currently an undergraduate intern 2024.04 ~ ).\
